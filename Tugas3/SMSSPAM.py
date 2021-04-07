@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_table('SMSSpamCollection',
+df = pd.read_table('SMSSPAM.txt',
                    sep='\t', 
                    header=None, 
                    names=['label', 'sms_message'])

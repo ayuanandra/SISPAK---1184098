@@ -1,5 +1,5 @@
 # Algoritma Naive Bayes
-## Deteksi spam
+## Deteksi spam SMS
 
 Dalam tugas ini, saya menggunakan algoritma Naive Bayes untuk membangun model yang dapat mengklasifikasikan pesan SMS sebagai spam atau non-spam berdasarkan pelatihan algoritma Naive Bayes.
 Penting untuk memiliki intuisi tertentu tentang munculnya spam. Biasanya ada kata-kata seperti "gratis", "menang", "pemenang", "uang tunai", "hadiah" dan sejenisnya, karena teks tersebut dimaksudkan untuk menarik perhatian orang dan memiliki tujuan yang menarik sampai batas tertentu. 
